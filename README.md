@@ -13,4 +13,5 @@
 - Текст задания на платформе "Stepic"<br>
   ![image](https://github.com/LeraChernyakova/SummerPractice_opentask/assets/90705580/7c256319-4f46-49fb-82c6-575e4beae8c1)
 - Результат прохождения тестов на платформе "Stepic"<br>
-  ![image](https://github.com/LeraChernyakova/SummerPractice_opentask/assets/90705580/b04f7353-4de0-46c7-bf6b-bcd833a86627)
+  ![image](https://github.com/LeraChernyakova/SummerPractice_opentask/assets/90705580/47162714-2d3b-435b-aad3-c39682380af6)
+
